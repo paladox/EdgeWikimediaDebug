@@ -1,7 +1,7 @@
-# ChromeWikimediaDebug
+# EdgeWikimediaDebug
 
 Wikimedia developers can use a special HTTP header, X-Wikimedia-Debug, to
-enable certain debugging features. This Chrome extension allows you to easily
+enable certain debugging features. This Microsoft Edge extension allows you to easily
 inject the header into Wikimedia HTTP/S requests. Header injection can be
 toggled via toolbar icon.
 
